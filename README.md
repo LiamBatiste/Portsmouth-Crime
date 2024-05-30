@@ -13,3 +13,4 @@ The data was obtained using the the https://data.police.uk/ API.
 
 ## Lessons learnt: 
 - I as an analyst need to be more methodical with what data I use so I can gain more actional insights, as the time series was redundant, given the date provided in the API does not necessarily correspond with the date the crime was commited.
+- The data pulled using the API could have been automated given the difference between 
