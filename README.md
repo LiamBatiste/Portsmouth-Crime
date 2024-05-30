@@ -11,8 +11,9 @@ The data was obtained using the the https://data.police.uk/ API.
 - There is clearly a high amount of violent crime cases across the 6 months. Implications being that Portsmouth Police should be trained for positive handling. 
 - Towards the later end of the year there appears to be an increase in the amount of vehicle crime. Implications being that greater resources should be allocated towards combatting car theft at the end of the year. 
 
+### Most Frequent Locations of Commited Crimes by Date
 ![image](https://github.com/LiamBatiste/Portsmouth-Crime/assets/68031898/1b2eade0-b3c2-46a9-82f7-bc42c2315527)
-
+- 
 
 ## Lessons learnt: 
 - I as an analyst need to be more methodical with what data I use so I can gain more actional insights, as the time series was redundant, given the date provided in the API does not necessarily correspond with the date the crime was commited.
