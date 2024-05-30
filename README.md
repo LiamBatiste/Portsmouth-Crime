@@ -13,7 +13,8 @@ The data was obtained using the the https://data.police.uk/ API.
 
 ### Most Frequent Locations of Commited Crimes by Date
 ![image](https://github.com/LiamBatiste/Portsmouth-Crime/assets/68031898/1b2eade0-b3c2-46a9-82f7-bc42c2315527)
-- 
+- There is a progressive decrease in parking area crime over last 6 months. Implications being that if there are methods being applied to these locations to reduce crime levels, it should be replicated for other areas of high crime rate (Supermarkets and Guild Hall Walk in particular). 
+- Increased recent crime rate at Jacob's Street. Implication being that more resources might want to be allocated for this location. 
 
 ## Lessons learnt: 
 - I as an analyst need to be more methodical with what data I use so I can gain more actional insights, as the time series was redundant, given the date provided in the API does not necessarily correspond with the date the crime was commited.
