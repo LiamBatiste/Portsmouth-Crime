@@ -8,5 +8,7 @@ The data was obtained using the the https://data.police.uk/ API.
 ## Key take aways: 
 ### Most Frequent Commited Crimes by Date
 ![image](https://github.com/LiamBatiste/Portsmouth-Crime/assets/68031898/bbb216dd-247b-4934-923f-d7654b86183e)
+- There is clearly a high amount of violent crime cases and towards the end of the year there appears to be an increase in the amount of vehicle crime
 
 ## Lessons learnt: 
+- I as an analyst need to be more methodical with what data I use so I can gain more actional insights, as the time series was redundant, given the date provided in the API does not necessarily correspond with the date the crime was commited.
